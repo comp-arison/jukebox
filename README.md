@@ -12,9 +12,9 @@ Hot new single: Adds the album-exclusive song <b>Click Forever</b> to the track 
 
 ### Installation
 
-Download this project's source code and drag the "jukebox" folder (inside the downloaded zip folder) into the games mods folder.
+Download the latest version from the [Rleases](https://github.com/rebelderp127/jukebox/releases) and drag the "jukebox" folder (inside the downloaded zip folder) into the game's mods folder.
 
-IMPORTANT: This mod requires CCSE. Download it here: https://klattmose.github.io/CookieClicker/SteamMods/CCSE.zip?v=2.031
+IMPORTANT: This mod requires CCSE. Download it [here](https://klattmose.github.io/CookieClicker/SteamMods/CCSE.zip?v=2.031).
 
 Install CCSE the same way you would install the Jukebox mod.
 
@@ -22,7 +22,7 @@ Install CCSE the same way you would install the Jukebox mod.
 
 Feel free to use any part of this code for whatever you want. Credit isn't necessary, but appreciated.
 
-I actually built this mod off of Klattmose's "Decide Your Destiny" mod, so there might be some code left over from that.
+I actually built this mod off of Klattmose's "[Decide Your Destiny](https://klattmose.github.io/CookieClicker/#decide-your-destiny--steam)" mod, so there might be some code left over from that.
 
 This mod can be a good starting point for anyone wanting to add switches, custom music, heavenly upgrades, or anything with custom icons.
 
