@@ -1,0 +1,11 @@
+{
+	"Name": "Jukebox",
+	"ID": "Jukebox",
+	"Author": "Nathan Boehm",
+	"Description": "Adds a heavenly upgrade that lets your change the music.",
+	"ModVersion": 1.0,
+	"GameVersion": 2.042,
+	"Date": "9/09/2021",
+	"Dependencies": ["CCSE"],
+	"Disabled": 1
+}
